@@ -1,0 +1,4 @@
+31-40	high	s_no	fair    Yes
+31-40	low	s_yes	excellent   Yes
+31-40	medium	s_no	excellent   Yes
+31-40	high	s_yes	fair    Yes

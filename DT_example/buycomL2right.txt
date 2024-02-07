@@ -1,0 +1,5 @@
+>=40	medium	s_no	fair    Yes
+>=40	low	s_yes	fair    Yes
+>=40	low	s_yes	excellent   No
+>=40	medium	s_yes	fair    Yes
+>=40	medium	s_no	excellent   No

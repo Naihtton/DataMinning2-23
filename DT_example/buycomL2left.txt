@@ -1,0 +1,5 @@
+<=30	high	s_no	fair    No
+<=30	high	s_no	excellent   No
+<=30	medium	s_no	fair    No
+<=30	low	s_yes	fair    Yes
+<=30	medium	s_yes	excellent   Yes
