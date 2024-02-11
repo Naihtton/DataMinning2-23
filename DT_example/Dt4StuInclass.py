@@ -18,12 +18,14 @@ income =  np.zeros(3)
 incomeCI = [[0 for i in range(M)] for j in range(N)]
 
 credit=np.zeros(2)
-creditCI=[[0 for i in range(M)] for j in range(N)]
+creditCI=[[0 for i in range(M)] for j in range(L)]
 
 stu=np.zeros(2)
 stuCI=[[0 for i in range(M)] for j in range(L)]# zero matrix 3 rows 2 columns (class and info gain of student)
 # ให้นศ ทำ zero matrix 3 rows 3 columns (class and info gain of credit)
+
 buy = np.zeros(2)
+buyCI = [[0 for i in range(M)] for j in range(L)]
 
 #วน loop เพื่อนับข้อมูล แยกตามรายละเอียด attb และ class
 for i in range(0,15):
@@ -53,13 +55,13 @@ for i in range(0,15):
         else:
             incomeCI[0][1]+=1 #class yes
     elif(X[i].count('medium')==1):
-        age[1]+=1
+        income[1]+=1
         if ((X[i].count('medium')==1)) and (X[i].count('No')==1):
             incomeCI[1][0]+=1
         else:
             incomeCI[1][1]+=1
     elif(X[i].count('high')==1):
-        age[2]+=1
+        income[2]+=1
         if ((X[i].count('high')==1)) and (X[i].count('No')==1):
             incomeCI[2][0]+=1
         else:
@@ -126,7 +128,7 @@ print("income count is",income)
 print("student count is",stu)
 print("credit rating count is",credit)
 print("Buy computer count is",buy)
-print("Age Info relate to class",ageCI)
+print("Age Info relate to class",ageCI)z
 print("Income Info relate to class",incomeCI)
 print("Student Info relate to class",stuCI)
 print("Credit rating Info relate to class",creditCI)
