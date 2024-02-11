@@ -1,0 +1,151 @@
+sepal_length,sepal_width,petal_length,petal_width,class
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,>3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,>3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+5.4 -> 6.5,>3.6,<=3,<=0.9,Iris-setosa
+5.4 -> 6.5,>3.6,<=3,<=0.9,Iris-setosa
+<=5.4,>3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+5.4 -> 6.5,>3.6,<=3,<=0.9,Iris-setosa
+<=5.4,>3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,>3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,>3.6,<=3,<=0.9,Iris-setosa
+5.4 -> 6.5,>3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+5.4 -> 6.5,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,<=2.8,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,>3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,>3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+<=5.4,>3.6,<=3,<=0.9,Iris-setosa
+<=5.4,2.8 -> 3.6,<=3,<=0.9,Iris-setosa
+>6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+>6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+<=5.4,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+>6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+<=5.4,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+<=5.4,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+>6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,>1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+>6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+>6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+>6.5,2.8 -> 3.6,>4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,>4.9,0.9 -> 1.7,Iris-versicolor
+<=5.4,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+>6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+<=5.4,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+<=5.4,<=2.8,<=3,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-versicolor
+5.4 -> 6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,<=2.8,>4.9,>1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+<=5.4,<=2.8,3 -> 4.9,0.9 -> 1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+>6.5,<=2.8,>4.9,>1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,<=2.8,>4.9,>1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,<=2.8,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,<=2.8,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+>6.5,>3.6,>4.9,>1.7,Iris-virginica
+>6.5,<=2.8,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,<=2.8,>4.9,0.9 -> 1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,<=2.8,3 -> 4.9,>1.7,Iris-virginica
+>6.5,<=2.8,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,<=2.8,3 -> 4.9,>1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,<=2.8,3 -> 4.9,>1.7,Iris-virginica
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,>1.7,Iris-virginica
+5.4 -> 6.5,<=2.8,>4.9,>1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,0.9 -> 1.7,Iris-virginica
+>6.5,<=2.8,>4.9,>1.7,Iris-virginica
+>6.5,>3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,<=2.8,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,<=2.8,>4.9,0.9 -> 1.7,Iris-virginica
+5.4 -> 6.5,<=2.8,>4.9,0.9 -> 1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,2.8 -> 3.6,3 -> 4.9,>1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,<=2.8,>4.9,>1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+>6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,<=2.8,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
+5.4 -> 6.5,2.8 -> 3.6,>4.9,>1.7,Iris-virginica
